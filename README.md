@@ -23,4 +23,4 @@ This repository contains a multimodal implicit discourse relations dataset for E
 
 ## Copyright and License
 
-AmbiguousIDRs © 2025 by Ahmed Ruby, Christian Hardmeier and Sara Stymne is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Spoken-ImplicitDR © 2025 by Ahmed Ruby, Christian Hardmeier and Sara Stymne is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
