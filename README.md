@@ -17,9 +17,9 @@ This repository contains a multimodal implicit discourse relations dataset for E
    - Each file contains rows with:
      - **EGY_segments**: Text segments in Egyptian Arabic (labeled `[1]` and `[2]`).  
      - **Segment1_audio_path** / **Segment2_audio_path**: Paths to the corresponding audio files in the relevant subfolder.  
-     - **Class**: The discourse relation type (e.g., *cause*, *contrast*).  
+     - **Class**: The discourse relation type (e.g., *cause-effect*, *contrast*).  
      - **TED_Talk_Title**: Title of the TED Talk source.  
-     - **Implicit_connective(MSA)**: The Modern Standard Arabic connective that corresponds to the implicit discourse relation.
+     - **Implicit_connective(MSA)**: The Modern Standard Arabic connective that corresponds to the discourse relation expressed in the Egyptian Arabic segments.
 
 ## Copyright and License
 
